@@ -1,0 +1,31 @@
+body {
+  font-family: Arial; }
+
+header {
+  background-color: #5D191B; }
+
+#logo_newspaper_cf {
+  margin-left: 20px;
+  margin-top: 30px; }
+
+#banner1 {
+  position: absolute;
+  right: 0px; }
+
+ul {
+  list-style-type: none;
+  padding: 20px; }
+
+nav {
+  background-color: black;
+  font-size: 14pt; }
+
+li {
+  display: inline; }
+
+li a {
+  padding: 10px;
+  color: white;
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
