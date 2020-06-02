@@ -55,12 +55,18 @@ li a {
   display: flex;
   flex-flow: row;
   width: 1000px;
-  margin-left: 15px; }
+  margin-left: 15px;
+}
 
 .images_containers1and2 {
   display: block;
   width: 245px;
   height: 138px; }
+
+figure {
+  width: 245px;
+  height: 223px;
+}
 
 figcaption {
   background-color: black;
