@@ -159,4 +159,17 @@ hr {
   padding-bottom: 40px;
   padding-top: 12px; }
 
+footer {
+  height: 200px;
+  background-color: black;
+  margin-top: 50px; }
+
+#logo_footer {
+  text-align: right; }
+
+#footer_text {
+  color: white;
+  text-align: center;
+  margin-top: 50px; }
+
 /*# sourceMappingURL=style.css.map */
