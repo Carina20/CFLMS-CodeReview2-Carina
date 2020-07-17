@@ -61,13 +61,13 @@ li a {
   width: 245px;
   height: 138px; }
 
-figure {
+.FiguresA {
   width: 245px;
   height: 100%;
   margin-left: 0;
   margin-top: 15px; }
 
-figcaption {
+.figcaptionsA {
   background-color: black;
   color: white;
   padding-top: 10px;
@@ -107,5 +107,44 @@ hr {
 #img_FSWD_blue {
   margin-top: 15px;
   height: 94.5%; }
+
+#HowToBecome {
+  text-align: center;
+  margin-right: 100px;
+  margin-top: 20px; }
+
+#container_BB {
+  display: flex;
+  flex-flow: row;
+  justify-content: center; }
+
+#containerBB1 {
+  display: flex;
+  flex-flow: column;
+  width: 80%; }
+
+#containerBB1_top {
+  display: flex;
+  flex-flow: row;
+  justify-content: center; }
+
+#containerBB1_bottom {
+  display: flex;
+  flex-flow: row; }
+
+.imagesB {
+  display: block;
+  width: 102%;
+  height: 80%; }
+
+.figcaptionsB {
+  background-color: black;
+  color: white;
+  height: 30%;
+  width: 318px;
+  padding-left: 10px; }
+
+.FiguresB {
+  width: 320px; }
 
 /*# sourceMappingURL=style.css.map */
