@@ -121,7 +121,7 @@ hr {
 #containerBB1 {
   display: flex;
   flex-flow: column;
-  width: 80%; }
+  width: 60%; }
 
 #containerBB1_top {
   display: flex;
