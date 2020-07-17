@@ -172,4 +172,23 @@ footer {
   text-align: center;
   margin-top: 50px; }
 
+@media screen and (max-width: 800px) {
+  #banner1 {
+    display: none; }
+
+  #container_A {
+    margin-left: 0px;
+    padding-left: 0px; }
+
+  #Top_News {
+    margin-left: 10px;
+    width: 90%; }
+
+  #date {
+    text-align: left;
+    padding-left: 10px; }
+
+  ul {
+    text-align: center; } }
+
 /*# sourceMappingURL=style.css.map */
